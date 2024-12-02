@@ -1,0 +1,73 @@
+@page "/registro"
+@inject NavigationManager NavMan 
+@rendermode InteractiveServer
+@using System.Text.Json
+@inject IJSRuntime JSx
+
+<h3>Agregar Vivencia 🐉 </h3>
+
+<EditForm Model="@tardanza" OnValidSubmit="@AgregarTardanza">          
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+    
+
+    <div class="mb-3">
+        <label for="titulo" class="form-label">Título</label>
+        <InputText id="titulo" class="form-control" @bind-Value="@tardanza.Titulo"></InputText>
+    </div>
+                                                                                                    
+    <div class="mb-3">
+        <label for="descripcion" class="form-label">Descripción</label>
+        <InputTextArea id="descripcion" class="form-control" @bind-Value="@tardanza.Descripcion"></InputTextArea>                    
+    </div>
+
+    <div class="mb-3">
+        <label for="imagen" class="form-label">Imagen</label>
+        <InputText id="imagen" class="form-control" @bind-Value="@tardanza.ImagenUrl"></InputText>
+    </div>
+
+    <div class="mb-3">
+        <label for="fecha" class="form-label">Fecha</label>
+        <InputDate id="fecha" class="form-control" @bind-Value="@tardanza.Fecha"></InputDate>
+    </div>
+
+    <div class="text-center">
+        <button type="submit" class="btn btn-success">Guardar</button>
+        <button type="button" class="btn btn-danger" @onclick="Cancelar">Cancelar</button>
+    </div>
+</EditForm>
+
+@code {
+    private Tardanza tardanza = new Tardanza();
+
+    List<Tardanza> tardanzas = new List<Tardanza>();                
+
+    private async Task AgregarTardanza()
+    {
+        tardanzas.Add(tardanza);
+
+        
+        await JSx.InvokeVoidAsync("localStorage.setItem", "tardanzas", JsonSerializer.Serialize(tardanzas));
+
+        NavMan.NavigateTo("index");
+    }
+    private void Cancelar()
+    {
+        NavMan.NavigateTo("index");
+    }
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            var registrosJson = await JSx.InvokeAsync<string>("localStorage.getItem", "tardanzas");
+
+                if (registrosJson != null)
+                {
+                    tardanzas = JsonSerializer.Deserialize<List<Tardanza>>(registrosJson);
+                    JSx.InvokeVoidAsync("alert", tardanzas.Count + " Vivencias cargadas");
+                    StateHasChanged();
+                }
+        }
+    }
+}

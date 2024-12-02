@@ -1,0 +1,64 @@
+@page "/"
+@page "/index"
+@inject NavigationManager NavMan 
+@rendermode InteractiveServer
+@using System.Text.Json
+@inject IJSRuntime JSx
+
+<h3>Viencias Guardadas ⚔️</h3>
+
+<div class="text-end">
+    <button type="button" class="btn btn-primary" @onclick="NuevoRegistro">Nuevo Registro</button>
+</div>
+
+<div class="row mt-4">
+    @foreach (var tardanza in tardanzas)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card">
+                <!-- Imagen ajustada sin distorsión -->
+                <div class="card-img-container" style="height: 250px; overflow: hidden;">
+                    <img src="@tardanza.ImagenUrl" class="card-img-top" alt="@tardanza.Titulo" style="object-fit: contain; width: 100%; height: 100%;" />
+                </div>
+                
+                <div class="card-body">
+                    <div class="d-flex justify-content-between">
+                        <!-- Titulo -->
+                        <h5 class="card-title">@tardanza.Titulo</h5>
+                    </div>
+                    <!-- Descripcion -->
+                    <p class="card-text">@tardanza.Descripcion</p>
+                    <!-- Fecha -->
+                    <div class="d-flex justify-content-end">
+                        <p class="card-text"><small class="text-muted">Fecha: @tardanza.Fecha</small></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+</div>
+
+@code
+{
+    List<Tardanza> tardanzas = new List<Tardanza>();
+    private void NuevoRegistro()
+    {
+        NavMan.NavigateTo("registro");
+    }
+    
+
+    protected override async Task OnAfterRenderAsync(bool firstRender)
+    {
+        if(firstRender)
+        {
+            var registrosJson = await JSx.InvokeAsync<string>("localStorage.getItem", "tardanzas");
+
+            if (registrosJson != null)
+            {
+                tardanzas = JsonSerializer.Deserialize<List<Tardanza>>(registrosJson);
+                JSx.InvokeVoidAsync("alert", tardanzas.Count + " Registros Cargados");
+                StateHasChanged();
+            }
+        }
+    }
+}

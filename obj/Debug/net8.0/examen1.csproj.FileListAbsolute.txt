@@ -1,0 +1,118 @@
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\appsettings.Development.json
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\appsettings.json
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.staticwebassets.runtime.json
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.exe
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.deps.json
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.runtimeconfig.json
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.dll
+G:\BlazorExamen1\examen1\bin\Debug\net8.0\examen1.pdb
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.MvcApplicationPartsAssemblyInfo.cache
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets.build.json
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets.development.json
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets\msbuild.build.examen1.props
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.examen1.props
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.examen1.props
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\staticwebassets.pack.json
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\scopedcss\bundle\examen1.styles.css
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\scopedcss\projectbundle\examen1.bundle.scp.css
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.dll
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\refint\examen1.dll
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.pdb
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+G:\BlazorExamen1\examen1\obj\Debug\net8.0\ref\examen1.dll
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\appsettings.Development.json
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\appsettings.json
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.staticwebassets.runtime.json
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.exe
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.deps.json
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.runtimeconfig.json
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.dll
+G:\BlazorExamen1 - Copy\examen1\bin\Debug\net8.0\examen1.pdb
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.MvcApplicationPartsAssemblyInfo.cache
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets.build.json
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets.development.json
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets\msbuild.build.examen1.props
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.examen1.props
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.examen1.props
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\staticwebassets.pack.json
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\scopedcss\bundle\examen1.styles.css
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\scopedcss\projectbundle\examen1.bundle.scp.css
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.dll
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\refint\examen1.dll
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.pdb
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+G:\BlazorExamen1 - Copy\examen1\obj\Debug\net8.0\ref\examen1.dll
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\appsettings.Development.json
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\appsettings.json
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.staticwebassets.runtime.json
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.exe
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.deps.json
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.runtimeconfig.json
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.dll
+C:\Programación Web\Tarea_9\Tarea9\bin\Debug\net8.0\examen1.pdb
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.MvcApplicationPartsAssemblyInfo.cache
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.sourcelink.json
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets\msbuild.build.examen1.props
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.examen1.props
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.examen1.props
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\scopedcss\bundle\examen1.styles.css
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\scopedcss\projectbundle\examen1.bundle.scp.css
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.dll
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\refint\examen1.dll
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.pdb
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+C:\Programación Web\Tarea_9\Tarea9\obj\Debug\net8.0\ref\examen1.dll
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\appsettings.Development.json
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\appsettings.json
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.staticwebassets.runtime.json
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.exe
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.deps.json
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.runtimeconfig.json
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.dll
+C:\Programación Web\Tarea9Buena\bin\Debug\net8.0\examen1.pdb
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.MvcApplicationPartsAssemblyInfo.cache
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.sourcelink.json
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets.build.json
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets.development.json
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.build.examen1.props
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.examen1.props
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.examen1.props
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\scopedcss\bundle\examen1.styles.css
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\scopedcss\projectbundle\examen1.bundle.scp.css
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.dll
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\refint\examen1.dll
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.pdb
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\ref\examen1.dll
