@@ -1,16 +1,82 @@
 @page "/acerca-de"
 @rendermode InteractiveServer
 
-<h3>Acerca De</h3>
+<div class="about-panel">
+    <div class="card">
+        <h3>Acerca De</h3>
+        <p>Esta página fue hecha por:</p>
+        <p><strong>Aarón Carmona</strong></p>
+        <p>Matrícula: <strong>2023-1360</strong></p>
+        <p>Curso: <strong>Programación Web</strong></p>
+    </div>
+    <div class="card">
+        <h3>Contactos</h3>
+        <p><strong>Facebook:</strong> 
+            <a href="https://www.facebook.com/profile.php?id=100008714778544" target="_blank">Aarón Carmona</a>
+        </p>
+        <p><strong>Instagram:</strong> 
+            <a href="https://www.instagram.com/aaron_carmona.16/profilecard/?igsh=Nms4dXhiamx1Y2tn" target="_blank">@@aaron_carmona.16</a>
+        </p>
+        <p><strong>Twitter:</strong> 
+            <a href="https://x.com/seven_aarcar7" target="_blank">@@aaron_carmona</a>
+        </p>
+        <p><strong>Correo:</strong> 
+            <a href="mailto:20231360@itla.edu.do">20231360@itla.edu.do</a>
+        </p>
+    </div>
+</div>
 
-<p>Esta página fue hecha por:</p>
-<p>Aarón Carmona</p>
-<p>Matrícula: 2023-1360</p>
-<p>Curso: Programación Web</p>
 
-<!-- Contactos -->
-<p>Redes Sociales:</p>
-<p>Facebook: Aarón Carmona</p>
-<p>Instagram: @@aaron_carmona.16</p>
-<p>Twitter: @@aaron_carmona</p>
-<p>Correo: 20231360@itla.edu.do</p>
+<style>
+    .about-panel {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin: 20px;
+}
+
+.card {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+    text-align: center;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card h3 {
+    color: #8e0404;
+    font-size: 1.5rem;
+    margin-bottom: 15px;
+}
+
+.card p {
+    color: #495057;
+    font-size: 1rem;
+    margin: 5px 0;
+}
+
+.card p strong {
+    color: #212529;
+}
+.card a {
+    color: #851f08;
+    text-decoration: none;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.card a:hover {
+    color: #0056b3;
+    text-decoration: underline;
+}
+
+</style>
