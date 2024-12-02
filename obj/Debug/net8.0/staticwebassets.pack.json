@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Programación Web\\Tarea9Buena\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css",
+      "Id": "C:\\Users\\User\\OneDrive\\Documentos\\ITLA\\Quinto Cuatrimestre\\Programación III\\Tarea9Buena\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\examen1.bundle.scp.css",
       "PackagePath": "staticwebassets\\examen1.bundle.scp.css"
     },
     {
-      "Id": "C:\\Programación Web\\Tarea9Buena\\wwwroot\\app.css",
+      "Id": "C:\\Users\\User\\OneDrive\\Documentos\\ITLA\\Quinto Cuatrimestre\\Programación III\\Tarea9Buena\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Programación Web\\Tarea9Buena\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\User\\OneDrive\\Documentos\\ITLA\\Quinto Cuatrimestre\\Programación III\\Tarea9Buena\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Programación Web\\Tarea9Buena\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\User\\OneDrive\\Documentos\\ITLA\\Quinto Cuatrimestre\\Programación III\\Tarea9Buena\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Programación Web\\Tarea9Buena\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\User\\OneDrive\\Documentos\\ITLA\\Quinto Cuatrimestre\\Programación III\\Tarea9Buena\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

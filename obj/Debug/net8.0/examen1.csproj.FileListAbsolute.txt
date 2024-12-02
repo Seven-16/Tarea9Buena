@@ -116,3 +116,33 @@ C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\refint\examen1.dll
 C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.pdb
 C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\examen1.genruntimeconfig.cache
 C:\Programación Web\Tarea9Buena\obj\Debug\net8.0\ref\examen1.dll
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\appsettings.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.staticwebassets.runtime.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.exe
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.deps.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.runtimeconfig.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.dll
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\bin\Debug\net8.0\examen1.pdb
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.AssemblyInfo.cs
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.sourcelink.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.examen1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.build.examen1.props
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.examen1.props
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.examen1.props
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\scopedcss\bundle\examen1.styles.css
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\scopedcss\projectbundle\examen1.bundle.scp.css
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.dll
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\refint\examen1.dll
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.pdb
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\examen1.genruntimeconfig.cache
+C:\Users\User\OneDrive\Documentos\ITLA\Quinto Cuatrimestre\Programación III\Tarea9Buena\obj\Debug\net8.0\ref\examen1.dll
